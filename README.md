@@ -67,37 +67,7 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mattiamarcanti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&locale=en" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=mattiamarcanti&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattiamarcanti&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&locale=en" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=mattiamarcanti&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10)
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/mattiamarcanti/iDempiere-PackOut-Analyzer">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mattiamarcanti&repo=iDempiere-PackOut-Analyzer&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/mattiamarcanti/mm-calcoloOreLavoro">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mattiamarcanti&repo=mm-calcoloOreLavoro&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
 
 </div>
 
