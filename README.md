@@ -26,7 +26,7 @@
 
 - 🥷 Mattia Marcanti, Bologna, Italy 🇮🇹 - Software Engineer @ Finmatica
 - 🎓 Computer Engineering - Università di Bologna
-- 🔭 Currently working on **[iDempiere-PackOut-Analyzer](https://github.com/mattiamarcanti/iDempiere-PackOut-Analyzer)** — un tool per semplificare il deploy
+- 🔭 Currently working on **[iDempiere-PackOut-Analyzer](https://github.com/mattiamarcanti/iDempiere-PackOut-Analyzer)** and **[Prolific-Stats](https://github.com/mattiamarcanti/prolific-stats)**
 - 🌱 I have been learning **Python**, **Claude Code**, **Docker**, **Kubernetes**
 - ⚽ I love football, dance, skiing and basketball
 - 🌐 Check out my website: **[mattiamarcanti.it](https://www.mattiamarcanti.it)**
